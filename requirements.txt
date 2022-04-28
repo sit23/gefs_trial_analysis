@@ -1,3 +1,4 @@
 cfgrib
 s3fs
 xarray
+matplotlib
